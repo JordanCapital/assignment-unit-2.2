@@ -26,7 +26,7 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// The string "Dane" is assigned to a variable called name.
+// The string "Dane" is assigned to a variable called 'name'.
 // Using the if-else statement, we check if the value "Dane" is equal to "Mary"
 // Dane is not equal to Mary,  the 'else' console log will be executed
 // Console.log will print 'How do you do?'
@@ -45,9 +45,9 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// We define a varible 'secret' and variable 'code', and assign an integer '123'
-// The 'if' conditional statement checks if 'code' is equal to 123, which is equal, the variable
-// 'secret' is assigned to 'super'. 
+// We define a varible 'secret' and variable name 'code', and assign an integer '123'
+// Using an 'if' conditional statement we check if 'code' is equal to 123, which is equal, 
+// The variable 'secret' is assigned to 'super'. 
 // And the value 'code' multipies by 2
 // Since 'code' is not greater than 250, console. log will print 'super' 
 
@@ -71,8 +71,8 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// We define 3 variables 'isStudent', 'age', and 'zip', which we assign 'true', 34, and 55407 respectively.
-// A compound conditional if-else statement checks if 'isStudent' is 'true' and 'zip' is greater than 80000.
+// We define 3 variables 'isStudent', 'age', and 'zip', and assign 'true', 34, and 55407 to them respectively.
+// A compound conditional if-else statement checks if 'isStudent' is 'true' and 'zip' is greater than 80000, and other conditions in order.
 // The condition 'isStudent === false' or 'age < 30' is a logical OR statement, still nothing met here
 // console.log output will be output 'Welcome to Prime' since 'isStudent' is equal to 'true'
 
